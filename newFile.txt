@@ -1,3 +1,0 @@
-this is just a new test text file
-este es un archivo de prueba
-prueba reset
