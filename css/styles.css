@@ -10,10 +10,20 @@ body
 #container
 {
     width: 30%;
-    padding: 1em;
+    padding: 0;
     text-align: center;
     border: 1px solid #ddd;
+    border-radius: 10px;
     margin: 10px 35%;
+}
+#header
+{
+    width: 100%;
+    background-color:rgb(26, 26, 26, 0.800) ;
+    margin-top: 0;
+    padding: 1px 0px 10px 0px;
+    box-shadow: 1px 1px 10px #ddd;
+    border-radius: 10px 10px 0 0 ;
 }
 #container p
 {
