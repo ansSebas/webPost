@@ -1,11 +1,21 @@
 body
 {
-    background-color: antiquewhite;
+    background-color: rgba(26, 26, 26, 0.856);
+    align-content: center;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    color: rgb(51, 122, 98);
-    text-align: center;
+    color: rgba(152, 202, 63);
+    margin: 0;
+    padding: 0;
 }
-#headTitle
+#container
 {
-    color: deepskyblue;
+    width: 30%;
+    padding: 1em;
+    text-align: center;
+    border: 1px solid #ddd;
+    margin: 10px 35%;
+}
+#container p
+{
+    color: #ddd;
 }
