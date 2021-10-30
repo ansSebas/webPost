@@ -1,2 +1,2 @@
 # webPost
-Practicas de git y github
+Practicas de **Git** y **Github**
